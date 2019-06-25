@@ -33,6 +33,7 @@ So, to get you started with open source, as this week's assignment, you will be 
 #### DRF-Problems [Link](https://github.com/shivanshs9/drf-problems)
 
 
-### Ending Note
 
-Every contribution no matter how big or small plays an important role in the development of the project. Your contribution counts ( Atleast for github. :-P ). It can be rewarding at times too. So, get started and keep contributin.
+#### Ending Note
+
+Every contribution no matter how big or small plays an important role in the development of the project. Your contribution counts and can be rewarding at times too. So, get started and keep contributin.
