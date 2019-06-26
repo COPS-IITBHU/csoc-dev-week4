@@ -12,6 +12,8 @@ We have compiled a list of issues for you to start solving. But before heading o
 
 * If the issue is not clear, then it is preferable to discuss the issue with the mentor before coming to any conclusion and starting the work.
 
+* If your pull request is merged for the issue, then the points for that issue will directly be alloted to you. Collect as many points as you can to win exciting goodies!
+
 > **_NOTE:_** Regarding this assignment, 
 > * We will be assigning issues on FCFS basis, and each issue will be assigned to one person generally (there may be exceptions though :P).
 > * Moreover, in case of delay, the issue will be open for anyone who will be willing to work on the issue.
