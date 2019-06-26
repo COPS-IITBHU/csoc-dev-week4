@@ -1,10 +1,6 @@
 # Open Source Issues - CSOC Dev Week 4 Assignment
 
-Welcome to week 4 of CSOC Dev. In this week, we have planned to introduce you to open source. 
-
-Often the biggest challenge in open source is to get started. The process can be intimidating. How do you find the right project? What if something goes wrong? 
-
-So, to get you started with open source, as this week's assignment, you will be solving issues from various projects. We have compiled a list of issues for you to start solving. But before heading on to the list, here are some guidelines to be followed.
+We have compiled a list of issues for you to start solving. But before heading on to the list, here are some guidelines to be followed.
 
 ### Guidelines
 
@@ -14,26 +10,30 @@ So, to get you started with open source, as this week's assignment, you will be 
 
 * Before starting with any issue, ask the mentor if the issue is still relevant to the project and if anyone is working on the same issue. You can start by simply writing that you are interested in solving the issue. 
 
-* If the issue is not clear then it is preferable to discuss the issue with the mentor before coming to any conclusion and starting the work.
+* If the issue is not clear, then it is preferable to discuss the issue with the mentor before coming to any conclusion and starting the work.
 
 > **_NOTE:_** Regarding this assignment, 
-> * We will be assigning issues on FCFS basis, and each issue will be assigned to one person at max( there may be exceptions :-P ).
+> * We will be assigning issues on FCFS basis, and each issue will be assigned to one person generally (there may be exceptions though :P).
 > * Moreover, in case of delay, the issue will be open for anyone who will be willing to work on the issue.
-> * Solving each issue will fetch you points as mentioned in the issue. 
 
 
-## List of Projects
+### List of Projects
+#### [COPS Website](https://copsiitbhu.co.in/)
+- Tech Stack - [Jekyll](https://jekyllrb.com/docs/), [Ruby](https://www.ruby-lang.org/en/), [Bundler](https://rubygems.org/gems/bundler), JS, CSS3, HTML5
+- [Milestone](https://github.com/COPS-IITBHU/cops-website/milestone/1)
 
-#### COPS Website [Link](https://github.com/COPS-IITBHU/cops-website/milestone/1)
+#### [Codefest Website](https://codefest.tech/)
+- Tech Stack - [Vue.Js](https://vuejs.org/v2/guide/), [PWA](https://developers.google.com/web/progressive-web-apps/), [NPM](https://www.npmjs.com/), [Node.JS](https://nodejs.org/en/), JS, CSS3, HTML5
+- [Milestone](https://github.com/codefest-iit-bhu/codefest19/milestone/1)
 
-#### Yearbook [Link](https://github.com/COPS-IITBHU/Yearbook)
+#### [DRF-Problems](https://medium.com/swlh/drf-problems-21f7bb4d4675)
+- Tech Stack - [DRF](https://www.django-rest-framework.org/), [Django](https://www.djangoproject.com/), [Python 3](https://docs.python.org/3/tutorial/index.html), [REST API](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+- [Milestone](https://github.com/shivanshs9/drf-problems/milestone/1)
 
-#### Codefest Website [Link](https://github.com/codefest-iit-bhu/codefest19/milestone/1)
+#### Yearbook
+- Tech Stack - [Django](https://www.djangoproject.com/), JS, CSS3, HTML5
+- [Milestone](https://github.com/COPS-IITBHU/Yearbook/milestone/1)
 
-#### DRF-Problems [Link](https://github.com/shivanshs9/drf-problems)
 
-
-
-#### Ending Note
-
+### Ending Note
 Every contribution no matter how big or small plays an important role in the development of the project. Your contribution counts and can be rewarding at times too. So, get started and keep contributin.
