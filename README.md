@@ -17,7 +17,9 @@ We have compiled a list of issues for you to start solving. But before heading o
 > **_NOTE:_** Regarding this assignment, 
 > * We will be assigning issues on FCFS basis, and each issue will be assigned to one person generally (there may be exceptions though :P).
 > * Moreover, in case of delay, the issue will be open for anyone who will be willing to work on the issue.
-
+> * If a person makes a PR without being assigned to the issue the PR won't be accepted.
+> * A person is allowed to make atmost 3 PRs in a project and at the same time the PRs must be for issues with distinct points.
+>
 
 ### List of Projects
 #### [COPS Website](https://copsiitbhu.co.in/)
@@ -38,4 +40,4 @@ We have compiled a list of issues for you to start solving. But before heading o
 
 
 ### Ending Note
-Every contribution no matter how big or small plays an important role in the development of the project. Your contribution counts and can be rewarding at times too. So, get started and keep contributin.
+Every contribution no matter how big or small plays an important role in the development of the project. Your contribution counts and can be rewarding at times too. So, get started and keep contributing.
